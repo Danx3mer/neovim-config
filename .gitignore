@@ -1,0 +1,6 @@
+# Plugin installation paths
+.local/
+.init.lua.swp
+
+# Temporary lazy.nvim state
+/.repro/
